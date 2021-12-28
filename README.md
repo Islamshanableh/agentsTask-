@@ -32,4 +32,4 @@ You will also see any lint errors in the console.
 ### Deployment
 
 This section has Deployment with heroku and netlify 
-here demo link : 
+here demo link :https://practical-chandrasekhar-e3ff21.netlify.app/
