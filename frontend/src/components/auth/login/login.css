@@ -1,0 +1,65 @@
+.login {
+  position: relative;
+}
+.loginForm {
+  position: fixed;
+  left: 50%;
+  width: 500px;
+  height: 400px;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+  border-radius: 15px;
+  padding: 25px;
+}
+.loginForm input{
+margin-bottom: 15px;    
+}
+.login-form-2 {
+  padding: 5%;
+  background: #0636bb;
+  box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+}
+.login-form-2 h3 {
+  text-align: center;
+  color: #fff;
+}
+.login-container form {
+  padding: 10%;
+}
+.btnSubmit {
+  border-radius: 1rem;
+  padding: 1.5%;
+  border: none;
+  cursor: pointer;
+}
+
+.login-form-2 .btnSubmit {
+  font-weight: 600;
+  color: #0062cc;
+  background-color: #fff;
+}
+.login-form-2 .ForgetPwd {
+  color: #fff;
+  font-weight: 600;
+  text-decoration: none;
+}
+.registerNow{
+  margin-top: 15px;
+  color: white;
+}
+
+.registerNow a{
+  cursor: pointer;
+  text-decoration: none;
+  color: white;
+}
+
+.registerNow a:hover{
+  cursor: pointer;
+  text-decoration: none;
+  color: black;
+}
